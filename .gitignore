@@ -11,3 +11,4 @@ npm-debug.log
 #
 app/*.js
 app/*.js.map
+.idea
